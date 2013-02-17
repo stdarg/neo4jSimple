@@ -28,9 +28,11 @@ tags
 
 # pid files
 *.pid
+*.gz
 
-# C temp files
-*.[oa]
+pids
+logs
+results
 
 # git files
 .git
